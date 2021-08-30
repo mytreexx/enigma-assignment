@@ -1,0 +1,180 @@
+[
+  {
+    "name": "xrp",
+    "prices": [
+      {
+        "name": "aud",
+        "exchangeRate": 1.55,
+        "change": -0.57,
+        "watchers": 1218000
+      },
+      {
+        "name": "btc",
+        "exchangeRate": 0.00002354,
+        "change": 0.443,
+        "watchers": 8246345
+      },
+      {
+        "name": "cad",
+        "exchangeRate": 2354,
+        "change": -18.44,
+        "watchers": 1346733
+      },
+      {
+        "name": "eth",
+        "exchangeRate": 2354,
+        "change": 13.43,
+        "watchers": 8245
+      },
+      {
+        "name": "eur",
+        "exchangeRate": 27008,
+        "change": 2.788,
+        "watchers": 3475655,
+        "watched": true
+      },
+      {
+        "name": "gbp",
+        "exchangeRate": 0.94222,
+        "change": 34.87,
+        "watchers": 2956
+      },
+      {
+        "name": "jpy",
+        "exchangeRate": 0.000998,
+        "change": -20.07,
+        "watchers": 369
+      },
+      {
+        "name": "usd",
+        "exchangeRate": 2.354,
+        "change": -0.43,
+        "watchers": 86000
+      },
+      {
+        "name": "usdt",
+        "exchangeRate":758.43,
+        "change": 1.12,
+        "watchers": 468904
+      }
+    ]
+  },
+  {
+    "name": "bch",
+    "prices": [
+      {
+        "name": "aud",
+        "exchangeRate": 14.55,
+        "change": 3.57,
+        "watchers": 21800
+      },
+      {
+        "name": "btc",
+        "exchangeRate": 99.566,
+        "change": 5.533,
+        "watchers": 344794
+      },
+      {
+        "name": "cad",
+        "exchangeRate": 12.235,
+        "change": -2.234,
+        "watchers": 458355
+      },
+      {
+        "name": "eth",
+        "exchangeRate": 78625,
+        "change": 4.345,
+        "watchers": 24357
+      },
+      {
+        "name": "eur",
+        "exchangeRate": 268543,
+        "change": 34.2,
+        "watchers": 567
+      },
+      {
+        "name": "gbp",
+        "exchangeRate": 45.25,
+        "change": -2.35,
+        "watchers": 3579007
+      },
+      {
+        "name": "jpy",
+        "exchangeRate": 0.00002354,
+        "change": -0.43,
+        "watchers": 5694544
+      },
+      {
+        "name": "usd",
+        "exchangeRate": 46843,
+        "change": 0.0005,
+        "watchers": 1684696
+      },
+      {
+        "name": "usdt",
+        "exchangeRate": 2347,
+        "change": 2.467,
+        "watchers": 2956274
+      }
+    ]
+  },
+  {
+    "name": "ltc",
+    "prices": [
+      {
+        "name": "aud",
+        "exchangeRate": 1.55,
+        "change": -0.57,
+        "watchers": 12000
+      },
+      {
+        "name": "btc",
+        "exchangeRate": 234642,
+        "change": 3.565,
+        "watchers": 20574
+      },
+      {
+        "name": "cad",
+        "exchangeRate": 3463227,
+        "change": 3.1113,
+        "watchers": 357064
+      },
+      {
+        "name": "eth",
+        "exchangeRate": 425674,
+        "change": -4.99555,
+        "watchers": 2856376
+      },
+      {
+        "name": "eur",
+        "exchangeRate": 34574,
+        "change": 8.443,
+        "watchers": 3577
+      },
+      {
+        "name": "gbp",
+        "exchangeRate": 0.00055,
+        "change": 56,
+        "watchers": 29472655
+      },
+      {
+        "name": "jpy",
+        "exchangeRate": 86.00007,
+        "change": 0.0003,
+        "watchers": 456
+      },
+      {
+        "name": "usd",
+        "exchangeRate": 3458,
+        "change": 2.004,
+        "watchers": 235473
+      },
+      {
+        "name": "usdt",
+        "exchangeRate": 0.00002354,
+        "change": -0.43,
+        "watchers": 824.6000
+      }
+    ]
+  }
+]
